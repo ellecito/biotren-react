@@ -1,0 +1,121 @@
+[
+    {
+        "key": 1,
+        "value": "Hualqui"
+    },
+    {
+        "key": 2,
+        "value": "La Leonera"
+    },
+    {
+        "key": 3,
+        "value": "Manquimavida"
+    },
+    {
+        "key": 4,
+        "value": "Pedro Medina"
+    },
+    {
+        "key": 6,
+        "value": "Chiguayante"
+    },
+    {
+        "key": 7,
+        "value": "Concepción",
+        "area": "1018,973,60"
+    },
+    {
+        "key": 8,
+        "value": "Lzo. Arenas"
+    },
+    {
+        "key": 9,
+        "value": "UTFSM"
+    },
+    {
+        "key": 10,
+        "value": "Los Condores"
+    },
+    {
+        "key": 11,
+        "value": "Higueras"
+    },
+    {
+        "key": 12,
+        "value": "El Arenal"
+    },
+    {
+        "key": 13,
+        "value": "Mercado Thno."
+    },
+    {
+        "key": 14,
+        "value": "Juan Pablo II",
+        "area": "751,1036,44"
+    },
+    {
+        "key": 15,
+        "value": "Diagonal Biobio",
+        "area": "631,1139,44"
+    },
+    {
+        "key": 16,
+        "value": "Alborada",
+        "area": "592,1265,45"
+    },
+    {
+        "key": 17,
+        "value": "Costa Mar",
+        "area": "575,1429,46"
+    },
+    {
+        "key": 46,
+        "value": "El Parque",
+        "area": "562,1546,45"
+    },
+    {
+        "key": 18,
+        "value": "Lomas Coloradas",
+        "area": "561,1664,45"
+    },
+    {
+        "key": 39,
+        "value": "Cardenal Raúl Silva H.",
+        "area": "524,1764,43"
+    },
+    {
+        "key": 40,
+        "value": "Hito Galvarino",
+        "area": "494,1886,45"
+    },
+    {
+        "key": 41,
+        "value": "Los Canelos",
+        "area": "482,1994,44"
+    },
+    {
+        "key": 42,
+        "value": "Huinca",
+        "area": "454,2151,45"
+    },
+    {
+        "key": 43,
+        "value": "Cristo Redentor",
+        "area": "504,2245,44"
+    },
+    {
+        "key": 44,
+        "value": "Laguna Quiñenco",
+        "area": "560,2326,47"
+    },
+    {
+        "key": 45,
+        "value": "Intermodal Coronel",
+        "area": "649,2389,42"
+    },
+    {
+        "key": 49,
+        "value": "Integración Lota",
+        "area": "649,2389,42"
+    }
+]
